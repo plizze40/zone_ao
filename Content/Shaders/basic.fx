@@ -1,11 +1,4 @@
 float4x4 g_view;
-/*sampler sam0: register(s0) = 
-{
-	MinFilter = Linear;
-    MagFilter = Linear;
-    MipFilter = None;
-}*/
-
 sampler sam0: register(s0);
 
 float3 LuminanceConv = { 0.7125f, 0.7154f, 0.0721f };
