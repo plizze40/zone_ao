@@ -1,0 +1,192 @@
+[INIT]
+
+NumEscudos=32
+
+[ESC1] ´Escudo imperial
+Dir1=4727
+Dir2=4729
+Dir3=4726
+Dir4=4728
+
+[ESC3] ´Escudo de León +1
+Dir1=5105
+Dir2=5107
+Dir3=5104
+Dir4=5106
+
+[ESC4] ´Ojos de druida
+Dir1=5131
+Dir2=5133
+Dir3=5130
+Dir4=5132
+
+[ESC5] Escudo de la noche
+Dir1=5161
+Dir2=5163
+Dir3=5160
+Dir4=5162
+
+[ESC6] ´Escudo de tortuga
+Dir1=5187
+Dir2=5189
+Dir3=5186
+Dir4=5188
+
+[ESC7] ´Escudo del águila
+Dir1=5213
+Dir2=5215
+Dir3=5212
+Dir4=5214
+
+[ESC8] ´EscudoDelHonor 
+Dir1=5625
+Dir2=5627
+Dir3=5624
+Dir4=5626
+
+[ESC9] ´Escudo Imperial +1
+Dir1=4779
+Dir2=4781
+Dir3=4778
+Dir4=4780
+
+[ESC10] ´Escudo redondo
+Dir1=5651
+Dir2=5653
+Dir3=5650
+Dir4=5652
+
+[ESC11] ´Escudo de madera
+Dir1=5677
+Dir2=5679
+Dir3=5676
+Dir4=5678
+
+[ESC12] ´Escudo escocés
+Dir1=5703
+Dir2=5705
+Dir3=5702
+Dir4=5704
+
+[ESC13] ´Escudo redondo metal
+Dir1=5729
+Dir2=5731
+Dir3=5728
+Dir4=5730
+
+[ESC14] ´Escudo del triunfador
+Dir1=5354
+Dir2=5356
+Dir3=5353
+Dir4=5355
+
+[ESC15] ´Escudo sagrado
+Dir1=5380
+Dir2=5382
+Dir3=5379
+Dir4=5381
+
+[ESC16] ´Escudo de roble
+Dir1=5406
+Dir2=5408
+Dir3=5405
+Dir4=5407
+
+[ESC17] ´Escudo de la Intolerancia
+Dir1=5432
+Dir2=5434
+Dir3=5431
+Dir4=5433
+
+[ESC18] ´Escudo de León
+Dir1=5458
+Dir2=5459
+Dir3=5457
+Dir4=5460
+
+[ESC19] ´Escudo Imperial +1
+Dir1=5079
+Dir2=5080
+Dir3=5078
+Dir4=5081
+
+[ESC20] ´Escudo magno
+Dir1=5484
+Dir2=5485
+Dir3=5483
+Dir4=5486
+
+[ESC21] 'Escudo de Hierro
+Dir1=7084
+Dir2=7086
+Dir3=7083
+Dir4=7085
+
+[ESC22] 'Escudo Imperial +2
+Dir1=15002
+Dir2=15004
+Dir3=15001
+Dir4=15003
+
+[ESC23] 'Escudo de León +1
+Dir1=15029
+Dir2=15031
+Dir3=15028
+Dir4=15030
+
+[ESC24] 'Ojos Oscuros
+Dir1=15056
+Dir2=15058
+Dir3=15055
+Dir4=15057
+
+[ESC25] 'Escudo de Lord Thek
+Dir1=15083
+Dir2=15085
+Dir3=15082
+Dir4=15084
+
+[ESC26] 'Escudo Sagrado Oscuro
+Dir1=15110
+Dir2=15112
+Dir3=15109
+Dir4=15111
+
+[ESC27] 'Escudo de la Alianza
+Dir1=15137
+Dir2=15139
+Dir3=15136
+Dir4=15138
+
+[ESC28] 'Escudo de Asesino
+Dir1=15737
+Dir2=15739
+Dir3=15736
+Dir4=15738
+
+[ESC29] 'Escudo de Thor
+Dir1=15710
+Dir2=15712
+Dir3=15709
+Dir4=15711
+
+[ESC30] 'Escudo Dinal
+Dir1=15764
+Dir2=15766
+Dir3=15763
+Dir4=15765
+[ESC2]
+Dir1=0
+Dir2=0
+Dir3=0
+Dir4=0
+[ESC31]
+Dir1=0
+Dir2=0
+Dir3=0
+Dir4=0
+[ESC32]
+Dir1=16245
+Dir2=16247
+Dir3=16244
+Dir4=16246
